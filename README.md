@@ -5,14 +5,23 @@ Accordingly, this pre-reservation parking lot system aims to helps drivers to re
 Functional Requirements:
 
 • Define new reservations (enter personal and vehicle details).
+
 • Define new employees (enter personal details).
+
 • Modify data of existing reservations.
+
 • Modify data of existing employees.
+
 • Cancel/delete the reservations.
+
 • Delete the details of employees.
+
 • View the data of all reservations and employees.
+
 • Reserve an available parking lot and specify duration of reservation.
+
 • Calculate the bill.
+
 • Authenticate users before updating or deleting any data.
 
 In this system used waterfall method as the system development life cycle. Initially gathered and analysis the requirements. After that designed the system. In that phase developed a paper prototype to clearly identify the project. Then implemented the system according to the system design. After implementation tested the entire system. MySQL used to create and manage the databases.
